@@ -6,4 +6,4 @@ Inspired by Manfred Mohr's work (computer museum Mountain View)
 
 # /circleneurons
 A circle moving over a neuron pattern.
-![Circleneurons](circleneurons/circleneurons.png)
+![Circleneurons](circleneurons/circleneurons.gif)
